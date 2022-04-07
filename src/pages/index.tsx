@@ -1,13 +1,7 @@
-import type { NextPage } from "next";
-import { useState } from "react";
-
-const Home: NextPage = () => {
-
+export default function App() {
   return (
     <>
-      
+      <h1>BEM VINDO MELIANTE</h1>
     </>
-  )
-};
-
-export default Home;
+  );
+}
